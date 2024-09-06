@@ -4,16 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="04173f72-bfa9-4f21-8a93-8eed329a993c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Atividade01Condicoes.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Atividade01Condicoes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Atividade02Condicoes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Atividade03Condicoes.java" afterDir="false" />
+    <list default="true" id="04173f72-bfa9-4f21-8a93-8eed329a993c" name="Changes" comment="Atividades Condições">
+      <change afterPath="$PROJECT_DIR$/src/Atividade04Condicoes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Atividade05Condicoes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Atividade06Condicoes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Atividade07Condicoes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Atividade08Condicoes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Atividade09Condicoes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Atividade10Condicoes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Atividade11Condicoes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Atividade02Condicoes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Atividade02Condicoes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Atividade03Condicoes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Atividade03Condicoes.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,13 +30,33 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;kristhofferr&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/kristhofferr/Atividade01Condicoes.git&quot;,
+    &quot;accountId&quot;: &quot;47e64006-f03a-4282-bef3-0b2b523cea7e&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
   <component name="ProjectId" id="2lJ7HC20QlLNCrtB1Wx25plNPEm" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -43,6 +65,14 @@
   "keyToString": {
     "Application.Atividade02Condicoes.executor": "Run",
     "Application.Atividade03Condicoes.executor": "Run",
+    "Application.Atividade04Condicoes.executor": "Run",
+    "Application.Atividade05Condicoes.executor": "Run",
+    "Application.Atividade06Condicoes.executor": "Run",
+    "Application.Atividade07Condicoes.executor": "Run",
+    "Application.Atividade08Condicoes.executor": "Run",
+    "Application.Atividade09Condicoes.executor": "Run",
+    "Application.Atividade10Condicoes.executor": "Run",
+    "Application.Atividade11Condicoes.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
@@ -54,16 +84,37 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Atividade03Condicoes">
-    <configuration name="Atividade02Condicoes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Atividade02Condicoes" />
+  <component name="RunManager" selected="Application.Atividade11Condicoes">
+    <configuration name="Atividade07Condicoes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Atividade07Condicoes" />
       <module name="Atividade01Condicoes" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Atividade03Condicoes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Atividade03Condicoes" />
+    <configuration name="Atividade08Condicoes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Atividade08Condicoes" />
+      <module name="Atividade01Condicoes" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Atividade09Condicoes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Atividade09Condicoes" />
+      <module name="Atividade01Condicoes" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Atividade10Condicoes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Atividade10Condicoes" />
+      <module name="Atividade01Condicoes" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Atividade11Condicoes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Atividade11Condicoes" />
       <module name="Atividade01Condicoes" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -71,8 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Atividade03Condicoes" />
-        <item itemvalue="Application.Atividade02Condicoes" />
+        <item itemvalue="Application.Atividade11Condicoes" />
+        <item itemvalue="Application.Atividade10Condicoes" />
+        <item itemvalue="Application.Atividade09Condicoes" />
+        <item itemvalue="Application.Atividade07Condicoes" />
+        <item itemvalue="Application.Atividade08Condicoes" />
       </list>
     </recent_temporary>
   </component>
@@ -95,10 +149,50 @@
       <workItem from="1724886237079" duration="59000" />
       <workItem from="1724886385191" duration="1782000" />
       <workItem from="1725039841306" duration="6961000" />
+      <workItem from="1725322042173" duration="2059000" />
+      <workItem from="1725414356405" duration="4718000" />
+      <workItem from="1725479116473" duration="4053000" />
+      <workItem from="1725488046609" duration="188000" />
+      <workItem from="1725488241286" duration="5000" />
+      <workItem from="1725502213875" duration="1743000" />
+      <workItem from="1725504071937" duration="5011000" />
     </task>
+    <task id="LOCAL-00001" summary="Atividades Condições">
+      <option name="closed" value="true" />
+      <created>1725322197409</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1725322197409</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Atividades Condições" />
+    <option name="LAST_COMMIT_MESSAGE" value="Atividades Condições" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Atividade05Condicoes.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Atividade11Condicoes.java</url>
+          <line>2</line>
+          <properties class="Atividade11Condicoes" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

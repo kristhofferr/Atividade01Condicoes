@@ -6,8 +6,7 @@ public class Atividade02Condicoes {
         System.out.println("Por favor digite sua nota:");
 
         double nota = sc.nextDouble();
-
-
+        
         if (nota >=9 && nota<=10) {
             System.out.println("Excelente");
         }else if (nota >=7 && nota<9) {
